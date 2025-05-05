@@ -22,8 +22,8 @@ The feature selection techniques used are:
 1.Filter Method
 2.Wrapper Method
 3.Embedded Method
-# NAME: MUKESH A
-# REG NO: 212223040118
+# NAME: MONISHKUMAR.V
+# REG NO: 212223040116
 # CODING AND OUTPUT:
 ```py
 # Feature Scaling
